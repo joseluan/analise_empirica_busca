@@ -1,0 +1,1 @@
+long int rtsearch(long int * first, long int * last, int value);

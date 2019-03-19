@@ -1,0 +1,1 @@
+long int lnsearch(long int * first, long int * last, int value);

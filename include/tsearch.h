@@ -1,0 +1,1 @@
+long int tsearch(long int * first, long int * last, int value);
